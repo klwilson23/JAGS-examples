@@ -1,7 +1,7 @@
 rm(list=ls(all=TRUE))
 
 # Set the working directory, example below:
-setwd('C:/Users/Kyle/Google Drive/Biphasic Growth Methods Manuscript/Drafts/Coded Examples/JAG outcome')
+setwd('~/Google Drive/Biphasic Growth Methods Manuscript/Drafts/Coded Examples/JAG outcome')
 
 
 library(runjags) #load, install, or require the 'runjags' library
