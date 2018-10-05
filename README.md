@@ -1,5 +1,6 @@
 # JAGS-examples
 Some example Bayesian models and simulations in the JAGS language
+
 Step 1: First download JAGS from http://mcmc-jags.sourceforge.net/
 
 Step 2: Open R or RStudio and install the relevant MCMC and JAGS packages: coda, stats4, runjags, and segemented (for simulation 2).
